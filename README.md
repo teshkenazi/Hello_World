@@ -1,11 +1,11 @@
 ## Table of Contents
 
-* Project Title (#Project-Title)
-* Description (#Description)
-* How to Run Program (#How-to-Run-Program)
-* Files Used (#Files-Used)
-* Additional Information (#Additional-Information)
-* Versioning (#Versioning)
+* [Project Title](#Project-Title)
+* [Description](#Description)
+* [How to Run Program](#How-to-Run-Program)
+* [Files Used](#Files-Used)
+* [Additional Information](#Additional-Information)
+* [Versioning](#Versioning)
 
 ## Project Title
 
